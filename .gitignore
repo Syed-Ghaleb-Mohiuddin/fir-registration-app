@@ -1,0 +1,14 @@
+target/
+output/
+classpath.txt
+*.class
+*.jar
+*.pdf
+*.xlsx
+.env
+.env.local
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
